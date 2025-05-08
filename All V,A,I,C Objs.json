@@ -1,0 +1,734 @@
+[
+ {
+  "aweme_id": "7003619966473800996",
+  "duration": 40982,
+  "videoFilename": "Videos/7003619966473800996.mp4",
+  "musicFilename": "Audios/7003619966473800996.mp3",
+  "coverFilename": "Covers/7003619966473800996.png"
+ },
+ {
+  "aweme_id": "7482798863871429946",
+  "duration": 0,
+  "musicFilename": "Audios/7482798863871429946.mp3",
+  "imagesFilenames": [
+   "Images/7482798863871429946/0.png",
+   "Images/7482798863871429946/1.png",
+   "Images/7482798863871429946/2.png",
+   "Images/7482798863871429946/3.png"
+  ],
+  "coverFilename": "Covers/7482798863871429946.png"
+ },
+ {
+  "aweme_id": "7501904077572295443",
+  "musicFilename": "Audios/7501904077572295443.mp3",
+  "coverFilename": "Covers/7501904077572295443.png"
+ },
+ {
+  "aweme_id": "7491845214806527282",
+  "duration": 0,
+  "musicFilename": "Audios/7491845214806527282.mp3",
+  "imagesFilenames": [
+   "Images/7491845214806527282/0.png",
+   "Images/7491845214806527282/1.png",
+   "Images/7491845214806527282/2.png",
+   "Images/7491845214806527282/3.png",
+   "Images/7491845214806527282/4.png",
+   "Images/7491845214806527282/5.png",
+   "Images/7491845214806527282/6.png",
+   "Images/7491845214806527282/7.png",
+   "Images/7491845214806527282/8.png",
+   "Images/7491845214806527282/9.png",
+   "Images/7491845214806527282/10.png",
+   "Images/7491845214806527282/11.png",
+   "Images/7491845214806527282/12.png",
+   "Images/7491845214806527282/13.png",
+   "Images/7491845214806527282/14.png",
+   "Images/7491845214806527282/15.png",
+   "Images/7491845214806527282/16.png",
+   "Images/7491845214806527282/17.png",
+   "Images/7491845214806527282/18.png",
+   "Images/7491845214806527282/19.png",
+   "Images/7491845214806527282/20.png",
+   "Images/7491845214806527282/21.png",
+   "Images/7491845214806527282/22.png",
+   "Images/7491845214806527282/23.png",
+   "Images/7491845214806527282/24.png",
+   "Images/7491845214806527282/25.png",
+   "Images/7491845214806527282/26.png",
+   "Images/7491845214806527282/27.png",
+   "Images/7491845214806527282/28.png",
+   "Images/7491845214806527282/29.png",
+   "Images/7491845214806527282/30.png",
+   "Images/7491845214806527282/31.png",
+   "Images/7491845214806527282/32.png",
+   "Images/7491845214806527282/33.png",
+   "Images/7491845214806527282/34.png",
+   "Images/7491845214806527282/35.png",
+   "Images/7491845214806527282/36.png",
+   "Images/7491845214806527282/37.png",
+   "Images/7491845214806527282/38.png",
+   "Images/7491845214806527282/39.png",
+   "Images/7491845214806527282/40.png",
+   "Images/7491845214806527282/41.png"
+  ],
+  "coverFilename": "Covers/7491845214806527282.png"
+ },
+ {
+  "aweme_id": "7260792724171836672",
+  "duration": 208283,
+  "videoFilename": "Videos/7260792724171836672.mp4",
+  "musicFilename": "Audios/7260792724171836672.mp3",
+  "coverFilename": "Covers/7260792724171836672.png"
+ },
+ {
+  "aweme_id": "7425923167798988058",
+  "duration": 26934,
+  "videoFilename": "Videos/7425923167798988058.mp4",
+  "musicFilename": "Audios/7425923167798988058.mp3",
+  "coverFilename": "Covers/7425923167798988058.png"
+ },
+ {
+  "aweme_id": "7442525945459707148",
+  "duration": 19820,
+  "videoFilename": "Videos/7442525945459707148.mp4",
+  "musicFilename": "Audios/7442525945459707148.mp3",
+  "coverFilename": "Covers/7442525945459707148.png"
+ },
+ {
+  "aweme_id": "7488970580125928762",
+  "duration": 43926,
+  "videoFilename": "Videos/7488970580125928762.mp4",
+  "musicFilename": "Audios/7488970580125928762.mp3",
+  "coverFilename": "Covers/7488970580125928762.png"
+ },
+ {
+  "aweme_id": "7489790309107387700",
+  "duration": 0,
+  "musicFilename": "Audios/7489790309107387700.mp3",
+  "imagesFilenames": [
+   "Images/7489790309107387700/0.png",
+   "Images/7489790309107387700/1.png",
+   "Images/7489790309107387700/2.png",
+   "Images/7489790309107387700/3.png",
+   "Images/7489790309107387700/4.png"
+  ],
+  "coverFilename": "Covers/7489790309107387700.png"
+ },
+ {
+  "aweme_id": "7436372565209255220",
+  "duration": 21756,
+  "videoFilename": "Videos/7436372565209255220.mp4",
+  "musicFilename": "Audios/7436372565209255220.mp3",
+  "coverFilename": "Covers/7436372565209255220.png"
+ },
+ {
+  "aweme_id": "7295192060687174947",
+  "duration": 26772,
+  "videoFilename": "Videos/7295192060687174947.mp4",
+  "musicFilename": "Audios/7295192060687174947.mp3",
+  "coverFilename": "Covers/7295192060687174947.png"
+ },
+ {
+  "aweme_id": "7489262788624403769",
+  "duration": 0,
+  "musicFilename": "Audios/7489262788624403769.mp3",
+  "imagesFilenames": [
+   "Images/7489262788624403769/0.png",
+   "Images/7489262788624403769/1.png",
+   "Images/7489262788624403769/2.png",
+   "Images/7489262788624403769/3.png",
+   "Images/7489262788624403769/4.png",
+   "Images/7489262788624403769/5.png",
+   "Images/7489262788624403769/6.png",
+   "Images/7489262788624403769/7.png",
+   "Images/7489262788624403769/8.png",
+   "Images/7489262788624403769/9.png",
+   "Images/7489262788624403769/10.png",
+   "Images/7489262788624403769/11.png",
+   "Images/7489262788624403769/12.png",
+   "Images/7489262788624403769/13.png",
+   "Images/7489262788624403769/14.png",
+   "Images/7489262788624403769/15.png",
+   "Images/7489262788624403769/16.png",
+   "Images/7489262788624403769/17.png",
+   "Images/7489262788624403769/18.png"
+  ],
+  "coverFilename": "Covers/7489262788624403769.png"
+ },
+ {
+  "aweme_id": "7494261766860328229",
+  "duration": 0,
+  "musicFilename": "Audios/7494261766860328229.mp3",
+  "imagesFilenames": [
+   "Images/7494261766860328229/0.png",
+   "Images/7494261766860328229/1.png"
+  ],
+  "coverFilename": "Covers/7494261766860328229.png"
+ },
+ {
+  "aweme_id": "7497460496094776634",
+  "duration": 8967,
+  "videoFilename": "Videos/7497460496094776634.mp4",
+  "musicFilename": "Audios/7497460496094776634.mp3",
+  "coverFilename": "Covers/7497460496094776634.png"
+ },
+ {
+  "aweme_id": "7457857806390054155",
+  "duration": 179142,
+  "videoFilename": "Videos/7457857806390054155.mp4",
+  "musicFilename": "Audios/7457857806390054155.mp3",
+  "coverFilename": "Covers/7457857806390054155.png"
+ },
+ {
+  "aweme_id": "7494195833198349594",
+  "duration": 251333,
+  "videoFilename": "Videos/7494195833198349594.mp4",
+  "musicFilename": "Audios/7494195833198349594.mp3",
+  "coverFilename": "Covers/7494195833198349594.png"
+ },
+ {
+  "aweme_id": "7432910695907249466",
+  "duration": 12748,
+  "videoFilename": "Videos/7432910695907249466.mp4",
+  "musicFilename": "Audios/7432910695907249466.mp3",
+  "coverFilename": "Covers/7432910695907249466.png"
+ },
+ {
+  "aweme_id": "7453058010391252234",
+  "duration": 0,
+  "musicFilename": "Audios/7453058010391252234.mp3",
+  "imagesFilenames": [
+   "Images/7453058010391252234/0.png",
+   "Images/7453058010391252234/1.png",
+   "Images/7453058010391252234/2.png"
+  ],
+  "coverFilename": "Covers/7453058010391252234.png"
+ },
+ {
+  "aweme_id": "7230720466007182652",
+  "duration": 21206,
+  "videoFilename": "Videos/7230720466007182652.mp4",
+  "musicFilename": "Audios/7230720466007182652.mp3",
+  "coverFilename": "Covers/7230720466007182652.png"
+ },
+ {
+  "aweme_id": "7494781507737095483",
+  "duration": 0,
+  "musicFilename": "Audios/7494781507737095483.mp3",
+  "imagesFilenames": [
+   "Images/7494781507737095483/0.png",
+   "Images/7494781507737095483/1.png",
+   "Images/7494781507737095483/2.png",
+   "Images/7494781507737095483/3.png",
+   "Images/7494781507737095483/4.png",
+   "Images/7494781507737095483/5.png"
+  ],
+  "coverFilename": "Covers/7494781507737095483.png"
+ },
+ {
+  "aweme_id": "7428547646085762341",
+  "duration": 175079,
+  "videoFilename": "Videos/7428547646085762341.mp4",
+  "musicFilename": "Audios/7428547646085762341.mp3",
+  "coverFilename": "Covers/7428547646085762341.png"
+ },
+ {
+  "aweme_id": "7489728776042057017",
+  "duration": 17639,
+  "videoFilename": "Videos/7489728776042057017.mp4",
+  "musicFilename": "Audios/7489728776042057017.mp3",
+  "coverFilename": "Covers/7489728776042057017.png"
+ },
+ {
+  "aweme_id": "7494658015803477258",
+  "duration": 0,
+  "musicFilename": "Audios/7494658015803477258.mp3",
+  "imagesFilenames": [
+   "Images/7494658015803477258/0.png",
+   "Images/7494658015803477258/1.png",
+   "Images/7494658015803477258/2.png"
+  ],
+  "coverFilename": "Covers/7494658015803477258.png"
+ },
+ {
+  "aweme_id": "7489409295507868938",
+  "duration": 16580,
+  "videoFilename": "Videos/7489409295507868938.mp4",
+  "musicFilename": "Audios/7489409295507868938.mp3",
+  "coverFilename": "Covers/7489409295507868938.png"
+ },
+ {
+  "aweme_id": "7325033477701782793",
+  "duration": 0,
+  "musicFilename": "Audios/7325033477701782793.mp3",
+  "imagesFilenames": [
+   "Images/7325033477701782793/0.png",
+   "Images/7325033477701782793/1.png",
+   "Images/7325033477701782793/2.png",
+   "Images/7325033477701782793/3.png",
+   "Images/7325033477701782793/4.png",
+   "Images/7325033477701782793/5.png",
+   "Images/7325033477701782793/6.png",
+   "Images/7325033477701782793/7.png",
+   "Images/7325033477701782793/8.png",
+   "Images/7325033477701782793/9.png",
+   "Images/7325033477701782793/10.png",
+   "Images/7325033477701782793/11.png",
+   "Images/7325033477701782793/12.png",
+   "Images/7325033477701782793/13.png",
+   "Images/7325033477701782793/14.png",
+   "Images/7325033477701782793/15.png",
+   "Images/7325033477701782793/16.png",
+   "Images/7325033477701782793/17.png",
+   "Images/7325033477701782793/18.png",
+   "Images/7325033477701782793/19.png",
+   "Images/7325033477701782793/20.png",
+   "Images/7325033477701782793/21.png",
+   "Images/7325033477701782793/22.png",
+   "Images/7325033477701782793/23.png",
+   "Images/7325033477701782793/24.png",
+   "Images/7325033477701782793/25.png",
+   "Images/7325033477701782793/26.png",
+   "Images/7325033477701782793/27.png",
+   "Images/7325033477701782793/28.png",
+   "Images/7325033477701782793/29.png",
+   "Images/7325033477701782793/30.png",
+   "Images/7325033477701782793/31.png",
+   "Images/7325033477701782793/32.png",
+   "Images/7325033477701782793/33.png",
+   "Images/7325033477701782793/34.png",
+   "Images/7325033477701782793/35.png",
+   "Images/7325033477701782793/36.png",
+   "Images/7325033477701782793/37.png",
+   "Images/7325033477701782793/38.png"
+  ],
+  "coverFilename": "Covers/7325033477701782793.png"
+ },
+ {
+  "aweme_id": "7406497482244377891",
+  "duration": 36338,
+  "videoFilename": "Videos/7406497482244377891.mp4",
+  "musicFilename": "Audios/7406497482244377891.mp3",
+  "coverFilename": "Covers/7406497482244377891.png"
+ },
+ {
+  "aweme_id": "7244181756138540340",
+  "duration": 51617,
+  "videoFilename": "Videos/7244181756138540340.mp4",
+  "musicFilename": "Audios/7244181756138540340.mp3",
+  "coverFilename": "Covers/7244181756138540340.png"
+ },
+ {
+  "aweme_id": "7489642937916132634",
+  "duration": 0,
+  "musicFilename": "Audios/7489642937916132634.mp3",
+  "imagesFilenames": [
+   "Images/7489642937916132634/0.png",
+   "Images/7489642937916132634/1.png",
+   "Images/7489642937916132634/2.png",
+   "Images/7489642937916132634/3.png",
+   "Images/7489642937916132634/4.png",
+   "Images/7489642937916132634/5.png",
+   "Images/7489642937916132634/6.png",
+   "Images/7489642937916132634/7.png",
+   "Images/7489642937916132634/8.png",
+   "Images/7489642937916132634/9.png",
+   "Images/7489642937916132634/10.png",
+   "Images/7489642937916132634/11.png",
+   "Images/7489642937916132634/12.png",
+   "Images/7489642937916132634/13.png",
+   "Images/7489642937916132634/14.png",
+   "Images/7489642937916132634/15.png",
+   "Images/7489642937916132634/16.png",
+   "Images/7489642937916132634/17.png",
+   "Images/7489642937916132634/18.png",
+   "Images/7489642937916132634/19.png",
+   "Images/7489642937916132634/20.png",
+   "Images/7489642937916132634/21.png",
+   "Images/7489642937916132634/22.png",
+   "Images/7489642937916132634/23.png",
+   "Images/7489642937916132634/24.png",
+   "Images/7489642937916132634/25.png",
+   "Images/7489642937916132634/26.png",
+   "Images/7489642937916132634/27.png",
+   "Images/7489642937916132634/28.png",
+   "Images/7489642937916132634/29.png",
+   "Images/7489642937916132634/30.png"
+  ],
+  "coverFilename": "Covers/7489642937916132634.png"
+ },
+ {
+  "aweme_id": "7489020817498443066",
+  "duration": 0,
+  "musicFilename": "Audios/7489020817498443066.mp3",
+  "imagesFilenames": [
+   "Images/7489020817498443066/0.png",
+   "Images/7489020817498443066/1.png",
+   "Images/7489020817498443066/2.png",
+   "Images/7489020817498443066/3.png",
+   "Images/7489020817498443066/4.png",
+   "Images/7489020817498443066/5.png",
+   "Images/7489020817498443066/6.png",
+   "Images/7489020817498443066/7.png",
+   "Images/7489020817498443066/8.png",
+   "Images/7489020817498443066/9.png",
+   "Images/7489020817498443066/10.png"
+  ],
+  "coverFilename": "Covers/7489020817498443066.png"
+ },
+ {
+  "aweme_id": "7470874385889463610",
+  "duration": 8383,
+  "videoFilename": "Videos/7470874385889463610.mp4",
+  "musicFilename": "Audios/7470874385889463610.mp3",
+  "coverFilename": "Covers/7470874385889463610.png"
+ },
+ {
+  "aweme_id": "7500572504310713650",
+  "duration": 6584,
+  "videoFilename": "Videos/7500572504310713650.mp4",
+  "musicFilename": "Audios/7500572504310713650.mp3",
+  "coverFilename": "Covers/7500572504310713650.png"
+ },
+ {
+  "aweme_id": "7475924309223984420",
+  "duration": 15434,
+  "videoFilename": "Videos/7475924309223984420.mp4",
+  "musicFilename": "Audios/7475924309223984420.mp3",
+  "coverFilename": "Covers/7475924309223984420.png"
+ },
+ {
+  "aweme_id": "7444813325747096847",
+  "duration": 28734,
+  "videoFilename": "Videos/7444813325747096847.mp4",
+  "musicFilename": "Audios/7444813325747096847.mp3",
+  "coverFilename": "Covers/7444813325747096847.png"
+ },
+ {
+  "aweme_id": "7489127063941631258",
+  "duration": 0,
+  "musicFilename": "Audios/7489127063941631258.mp3",
+  "imagesFilenames": [
+   "Images/7489127063941631258/0.png",
+   "Images/7489127063941631258/1.png",
+   "Images/7489127063941631258/2.png",
+   "Images/7489127063941631258/3.png",
+   "Images/7489127063941631258/4.png",
+   "Images/7489127063941631258/5.png",
+   "Images/7489127063941631258/6.png",
+   "Images/7489127063941631258/7.png",
+   "Images/7489127063941631258/8.png"
+  ],
+  "coverFilename": "Covers/7489127063941631258.png"
+ },
+ {
+  "aweme_id": "7254116470785985829",
+  "duration": 0,
+  "musicFilename": "Audios/7254116470785985829.mp3",
+  "imagesFilenames": [
+   "Images/7254116470785985829/0.png",
+   "Images/7254116470785985829/1.png",
+   "Images/7254116470785985829/2.png",
+   "Images/7254116470785985829/3.png",
+   "Images/7254116470785985829/4.png",
+   "Images/7254116470785985829/5.png",
+   "Images/7254116470785985829/6.png",
+   "Images/7254116470785985829/7.png",
+   "Images/7254116470785985829/8.png"
+  ],
+  "coverFilename": "Covers/7254116470785985829.png"
+ },
+ {
+  "aweme_id": "7454344681795685672",
+  "duration": 19203,
+  "videoFilename": "Videos/7454344681795685672.mp4",
+  "musicFilename": "Audios/7454344681795685672.mp3",
+  "coverFilename": "Covers/7454344681795685672.png"
+ },
+ {
+  "aweme_id": "7246251504305294631",
+  "duration": 12734,
+  "videoFilename": "Videos/7246251504305294631.mp4",
+  "musicFilename": "Audios/7246251504305294631.mp3",
+  "coverFilename": "Covers/7246251504305294631.png"
+ },
+ {
+  "aweme_id": "7460434085534502184",
+  "duration": 11748,
+  "videoFilename": "Videos/7460434085534502184.mp4",
+  "musicFilename": "Audios/7460434085534502184.mp3",
+  "coverFilename": "Covers/7460434085534502184.png"
+ },
+ {
+  "aweme_id": "7490860772206202131",
+  "duration": 22919,
+  "videoFilename": "Videos/7490860772206202131.mp4",
+  "musicFilename": "Audios/7490860772206202131.mp3",
+  "coverFilename": "Covers/7490860772206202131.png"
+ },
+ {
+  "aweme_id": "7496519754375515403",
+  "duration": 0,
+  "musicFilename": "Audios/7496519754375515403.mp3",
+  "imagesFilenames": [
+   "Images/7496519754375515403/0.png",
+   "Images/7496519754375515403/1.png"
+  ],
+  "coverFilename": "Covers/7496519754375515403.png"
+ },
+ {
+  "aweme_id": "7492321610188344614",
+  "duration": 22167,
+  "videoFilename": "Videos/7492321610188344614.mp4",
+  "musicFilename": "Audios/7492321610188344614.mp3",
+  "coverFilename": "Covers/7492321610188344614.png"
+ },
+ {
+  "aweme_id": "7245240540965391677",
+  "duration": 0,
+  "musicFilename": "Audios/7245240540965391677.mp3",
+  "imagesFilenames": [
+   "Images/7245240540965391677/0.png",
+   "Images/7245240540965391677/1.png"
+  ],
+  "coverFilename": "Covers/7245240540965391677.png"
+ },
+ {
+  "aweme_id": "7489782314323561728",
+  "duration": 91835,
+  "videoFilename": "Videos/7489782314323561728.mp4",
+  "musicFilename": "Audios/7489782314323561728.mp3",
+  "coverFilename": "Covers/7489782314323561728.png"
+ },
+ {
+  "aweme_id": "7480502911538056488",
+  "duration": 0,
+  "musicFilename": "Audios/7480502911538056488.mp3",
+  "imagesFilenames": [
+   "Images/7480502911538056488/0.png",
+   "Images/7480502911538056488/1.png",
+   "Images/7480502911538056488/2.png",
+   "Images/7480502911538056488/3.png",
+   "Images/7480502911538056488/4.png",
+   "Images/7480502911538056488/5.png",
+   "Images/7480502911538056488/6.png",
+   "Images/7480502911538056488/7.png"
+  ],
+  "coverFilename": "Covers/7480502911538056488.png"
+ },
+ {
+  "aweme_id": "7449461146207128872",
+  "duration": 0,
+  "musicFilename": "Audios/7449461146207128872.mp3",
+  "imagesFilenames": [
+   "Images/7449461146207128872/0.png",
+   "Images/7449461146207128872/1.png",
+   "Images/7449461146207128872/2.png"
+  ],
+  "coverFilename": "Covers/7449461146207128872.png"
+ },
+ {
+  "aweme_id": "7434460861839756595",
+  "duration": 20154,
+  "videoFilename": "Videos/7434460861839756595.mp4",
+  "musicFilename": "Audios/7434460861839756595.mp3",
+  "coverFilename": "Covers/7434460861839756595.png"
+ },
+ {
+  "aweme_id": "7496346417980984630",
+  "duration": 0,
+  "musicFilename": "Audios/7496346417980984630.mp3",
+  "imagesFilenames": [
+   "Images/7496346417980984630/0.png",
+   "Images/7496346417980984630/1.png",
+   "Images/7496346417980984630/2.png",
+   "Images/7496346417980984630/3.png"
+  ],
+  "coverFilename": "Covers/7496346417980984630.png"
+ },
+ {
+  "aweme_id": "7490124975895104831",
+  "duration": 50156,
+  "videoFilename": "Videos/7490124975895104831.mp4",
+  "musicFilename": "Audios/7490124975895104831.mp3",
+  "coverFilename": "Covers/7490124975895104831.png"
+ },
+ {
+  "aweme_id": "7484564936945945916",
+  "duration": 42654,
+  "videoFilename": "Videos/7484564936945945916.mp4",
+  "musicFilename": "Audios/7484564936945945916.mp3",
+  "coverFilename": "Covers/7484564936945945916.png"
+ },
+ {
+  "aweme_id": "7494542266691276069",
+  "duration": 29094,
+  "videoFilename": "Videos/7494542266691276069.mp4",
+  "musicFilename": "Audios/7494542266691276069.mp3",
+  "coverFilename": "Covers/7494542266691276069.png"
+ },
+ {
+  "aweme_id": "7489293489285516559",
+  "duration": 0,
+  "musicFilename": "Audios/7489293489285516559.mp3",
+  "imagesFilenames": [
+   "Images/7489293489285516559/0.png",
+   "Images/7489293489285516559/1.png",
+   "Images/7489293489285516559/2.png",
+   "Images/7489293489285516559/3.png",
+   "Images/7489293489285516559/4.png",
+   "Images/7489293489285516559/5.png",
+   "Images/7489293489285516559/6.png",
+   "Images/7489293489285516559/7.png",
+   "Images/7489293489285516559/8.png"
+  ],
+  "coverFilename": "Covers/7489293489285516559.png"
+ },
+ {
+  "aweme_id": "7336604856070819122",
+  "duration": 19157,
+  "videoFilename": "Videos/7336604856070819122.mp4",
+  "musicFilename": "Audios/7336604856070819122.mp3",
+  "coverFilename": "Covers/7336604856070819122.png"
+ },
+ {
+  "aweme_id": "7402605847383248182",
+  "duration": 9960,
+  "videoFilename": "Videos/7402605847383248182.mp4",
+  "musicFilename": "Audios/7402605847383248182.mp3",
+  "coverFilename": "Covers/7402605847383248182.png"
+ },
+ {
+  "aweme_id": "7498373163304258842",
+  "duration": 28745,
+  "videoFilename": "Videos/7498373163304258842.mp4",
+  "musicFilename": "Audios/7498373163304258842.mp3",
+  "coverFilename": "Covers/7498373163304258842.png"
+ },
+ {
+  "aweme_id": "7488958862268091648",
+  "duration": 26560,
+  "videoFilename": "Videos/7488958862268091648.mp4",
+  "musicFilename": "Audios/7488958862268091648.mp3",
+  "coverFilename": "Covers/7488958862268091648.png"
+ },
+ {
+  "aweme_id": "7496857945892998450",
+  "duration": 0,
+  "musicFilename": "Audios/7496857945892998450.mp3",
+  "imagesFilenames": [
+   "Images/7496857945892998450/0.png",
+   "Images/7496857945892998450/1.png",
+   "Images/7496857945892998450/2.png",
+   "Images/7496857945892998450/3.png",
+   "Images/7496857945892998450/4.png",
+   "Images/7496857945892998450/5.png",
+   "Images/7496857945892998450/6.png",
+   "Images/7496857945892998450/7.png",
+   "Images/7496857945892998450/8.png",
+   "Images/7496857945892998450/9.png",
+   "Images/7496857945892998450/10.png"
+  ],
+  "coverFilename": "Covers/7496857945892998450.png"
+ },
+ {
+  "aweme_id": "7488941018927222026",
+  "duration": 25239,
+  "videoFilename": "Videos/7488941018927222026.mp4",
+  "musicFilename": "Audios/7488941018927222026.mp3",
+  "coverFilename": "Covers/7488941018927222026.png"
+ },
+ {
+  "aweme_id": "7345136783967014171",
+  "duration": 0,
+  "musicFilename": "Audios/7345136783967014171.mp3",
+  "imagesFilenames": [
+   "Images/7345136783967014171/0.png",
+   "Images/7345136783967014171/1.png",
+   "Images/7345136783967014171/2.png",
+   "Images/7345136783967014171/3.png",
+   "Images/7345136783967014171/4.png",
+   "Images/7345136783967014171/5.png",
+   "Images/7345136783967014171/6.png",
+   "Images/7345136783967014171/7.png",
+   "Images/7345136783967014171/8.png",
+   "Images/7345136783967014171/9.png",
+   "Images/7345136783967014171/10.png",
+   "Images/7345136783967014171/11.png",
+   "Images/7345136783967014171/12.png",
+   "Images/7345136783967014171/13.png",
+   "Images/7345136783967014171/14.png",
+   "Images/7345136783967014171/15.png",
+   "Images/7345136783967014171/16.png",
+   "Images/7345136783967014171/17.png",
+   "Images/7345136783967014171/18.png"
+  ],
+  "coverFilename": "Covers/7345136783967014171.png"
+ },
+ {
+  "aweme_id": "7485345831554469171",
+  "duration": 24637,
+  "videoFilename": "Videos/7485345831554469171.mp4",
+  "musicFilename": "Audios/7485345831554469171.mp3",
+  "coverFilename": "Covers/7485345831554469171.png"
+ },
+ {
+  "aweme_id": "7497231197576154404",
+  "duration": 13300,
+  "videoFilename": "Videos/7497231197576154404.mp4",
+  "musicFilename": "Audios/7497231197576154404.mp3",
+  "coverFilename": "Covers/7497231197576154404.png"
+ },
+ {
+  "aweme_id": "7391116622380977434",
+  "duration": 53219,
+  "videoFilename": "Videos/7391116622380977434.mp4",
+  "musicFilename": "Audios/7391116622380977434.mp3",
+  "coverFilename": "Covers/7391116622380977434.png"
+ },
+ {
+  "aweme_id": "7490477162454142218",
+  "duration": 91835,
+  "videoFilename": "Videos/7490477162454142218.mp4",
+  "musicFilename": "Audios/7490477162454142218.mp3",
+  "coverFilename": "Covers/7490477162454142218.png"
+ },
+ {
+  "aweme_id": "7250443129801772343",
+  "duration": 428502,
+  "videoFilename": "Videos/7250443129801772343.mp4",
+  "musicFilename": "Audios/7250443129801772343.mp3",
+  "coverFilename": "Covers/7250443129801772343.png"
+ },
+ {
+  "aweme_id": "7500912518698241307",
+  "duration": 20534,
+  "videoFilename": "Videos/7500912518698241307.mp4",
+  "musicFilename": "Audios/7500912518698241307.mp3",
+  "coverFilename": "Covers/7500912518698241307.png"
+ },
+ {
+  "aweme_id": "7261835702168472891",
+  "duration": 63234,
+  "videoFilename": "Videos/7261835702168472891.mp4",
+  "musicFilename": "Audios/7261835702168472891.mp3",
+  "coverFilename": "Covers/7261835702168472891.png"
+ },
+ {
+  "aweme_id": "7236244842840460559",
+  "duration": 0,
+  "musicFilename": "Audios/7236244842840460559.mp3",
+  "imagesFilenames": [
+   "Images/7236244842840460559/0.png",
+   "Images/7236244842840460559/1.png"
+  ],
+  "coverFilename": "Covers/7236244842840460559.png"
+ },
+ {
+  "aweme_id": "7435466154010807590",
+  "duration": 49600,
+  "videoFilename": "Videos/7435466154010807590.mp4",
+  "musicFilename": "Audios/7435466154010807590.mp3",
+  "coverFilename": "Covers/7435466154010807590.png"
+ }
+]

@@ -12,9 +12,9 @@ import axios from 'axios'
 })
 
 
-let j = JSON.parse(fs.readFileSync('All DYSearchResults Videos Details.json').toString()).filter(a => !!a)
+let j = JSON.parse(fs.readFileSync('王玉雯脸型.json').toString()).filter(a => !!a)
 let totalDuration = j.reduce((acc, j) => {
-    let duration = j.video.big_thumbs
+    let duration = j.duration || j.video?.duration
     !!duration && (duration = duration[0]?.duration)
     if (duration) {
         return acc + duration
@@ -44,7 +44,7 @@ let state = {
 }
 
 
-// start = 0, end = j.length
+start = 0, end = j.length
 // state.downloadVAIC = false
 // state.json = true
 
@@ -65,7 +65,7 @@ let J = j.slice(start, end).map((j, i) => {
             // console.log(Object.keys(j))
             // console.log(j.aweme_id)
             let { aweme_id, duration } = j
-            !duration && (duration = j.video.duration)
+            !duration && (duration = j.video?.duration)
             let videoURL = j?.video?.play_addr?.url_list[1]
             // console.log(aweme_id, videoURL)
 

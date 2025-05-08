@@ -27,7 +27,7 @@ let totalDuration = j.reduce((acc, j) => {
 
 let totalN = Math.ceil(j.length / 50)
 
-let N = 1, inc = 50
+let N = 2, inc = 50
 let start = N * inc, end = (N + 1) * inc
 
 

@@ -162,7 +162,7 @@ async function main() {
 
 }
 
-main()
+
 
 async function getFnJson() {
     state.downloadVAIC = false
@@ -181,4 +181,5 @@ async function getFnJson() {
 
 }
 
+main()
 // getFnJson()

@@ -75,7 +75,7 @@ fi
 # Store the first argument as the commit message
 commit_message="$1"
 git commit --quiet -m "$commit_message"
-git push origin main
+git push origin HEAD
 
 
 # !!! Important - convert encode back (decode)

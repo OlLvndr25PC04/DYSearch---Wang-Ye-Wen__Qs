@@ -12,7 +12,7 @@ import axios from 'axios'
 })
 
 
-let j = JSON.parse(fs.readFileSync('All DYSearchResults Videos Details.json').toString()).filter(a => !!a)
+let j = JSON.parse(fs.readFileSync('王玉雯写真.json').toString()).filter(a => !!a)
 let totalDuration = j.reduce((acc, j) => {
     let duration = j.video.big_thumbs
     !!duration && (duration = duration[0]?.duration)

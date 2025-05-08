@@ -44,7 +44,7 @@ let state = {
 }
 
 
-// start = 0, end = j.length
+start = 0, end = j.length
 // state.downloadVAIC = false
 // state.json = true
 
@@ -104,7 +104,7 @@ let J = j.slice(start, end).map((j, i) => {
                 // console.log(i + 1, fnObj)
                 allFnObjs.push(fnObj)
                 state.json && r()
-            }, state.json ? 0 : 3000 * i);
+            }, state.json ? 0 : 300 * i);
 
         })
 

@@ -12,7 +12,7 @@ import axios from 'axios'
 })
 
 
-let j = JSON.parse(fs.readFileSync('All DYSearchResults Videos Details.json').toString()).filter(a => !!a)
+let j = JSON.parse(fs.readFileSync('王玉雯搞笑.json').toString()).filter(a => !!a)
 let totalDuration = j.reduce((acc, j) => {
     let duration = j.video.big_thumbs
     !!duration && (duration = duration[0]?.duration)
@@ -104,7 +104,7 @@ let J = j.slice(start, end).map((j, i) => {
                 // console.log(i + 1, fnObj)
                 allFnObjs.push(fnObj)
                 state.json && r()
-            }, state.json ? 0 : 3000 * i);
+            }, state.json ? 0 : 300 * i);
 
         })
 
